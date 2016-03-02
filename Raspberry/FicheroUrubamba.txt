@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<FicheroUrubamba>
+	<Date>10-04-2015 13:15:16</Date>
+	<Sensor1>
+		<Pression>1023.31</Pression>
+		<Temperature>19.10</Temperature>
+	</Sensor1>
+	<Sensor2>
+		<Humidity>40.60</Humidity>
+		<Temperature>21.20</Temperature>
+	</Sensor2>
+	<Sensor3>
+		<Rain>0</Rain>
+	</Sensor3>
+</FicheroUrubamba>

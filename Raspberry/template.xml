@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<FicheroUrubamba>
+	<Date>stime</Date>
+	<Sensor1>
+		<Pression>spres</Pression>
+		<Temperature>stemp2</Temperature>
+	</Sensor1>
+	<Sensor2>
+		<Humidity>shum</Humidity>
+		<Temperature>stemp</Temperature>
+	</Sensor2>
+	<Sensor3>
+		<Rain>srain</Rain>
+	</Sensor3>
+</FicheroUrubamba>

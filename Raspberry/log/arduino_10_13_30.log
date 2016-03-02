@@ -1,0 +1,22 @@
+Connecting to Arduino
+Connected to Arduino, start handshaking
+Reading Temperature Sensor
+Temperature: 
+21.30
+Reading Humidity Sensor:
+Humidity: 
+42.20
+Reading Rain Sensor:
+Raining: 
+0
+Reading Temperature (2) Sensor:
+Temperature2: 
+20.13
+reading Pression Sensor:
+pression: 
+1023.17
+Closing Connection
+Generating TXT..
+TXT done.
+END
+Sending FicheroUrubamba to ftp server..
